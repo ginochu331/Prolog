@@ -5,8 +5,15 @@ let barHeight = document.getElementById('select-bar').offsetHeight;
 // sticker bar
 $(window).scroll(function(){
     if($(window).scrollTop() > barPosition.top){
-        $('#select-bar').css('position','fixed').css('top','0').css('width',barWidth);
+        $('#fixed-bar').css('display','block').css('width',barWidth);
+        $('#select-bar').css('visibility','hidden');
     } else {
-        $('#select-bar').css('position','static');
+        $('#fixed-bar').css('display','none');
+        $('#select-bar').css('visibility','visible');
     }    
 });
+
+let bookbtn = document.getElementById('book-btn');
+bookbtn.addEventListener('click', (event) => {
+	
+})
