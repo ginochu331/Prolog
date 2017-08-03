@@ -1,118 +1,223 @@
 body {
-	background-image: url("prolog.jpg"); background-size: 100%;
+	background-image: url("prolog.jpg");
+	background-size: 100%;
 	background-attachment: fixed;
+	opacity: 0.95;
 }
+
+#prolog-pic {
+	margin: 20vw;
+	width: 60vw;
+}
+
 #picture-space {
-	width: 100%; height: 50vw;
+	width: 100%;
+	height: 48.8vw;
 	text-align: center;
-	line-height: 70vw;
+	line-height: 55vw;
 }
+
 #select-bar {
-	width: 100%; height: 70px;
+	width: 100%;
+	height: 5vw;
 	background-color: #000000;
-	font-family: "Microsoft JhengHei"; font-size: 45px;
-	color:#FFFFFF;
-	font-weight: bold; line-height: 70px;
+	font-family: "Microsoft JhengHei";
+	font-size: 1.5vw;
+	color: #FFFFFF;
+	font-weight: bold;
+	line-height: 5vw;
 	text-align: center;
 	opacity: 0.7;
 }
+
 #fixed-bar {
-	width: 100%; height: 70px;
+	width: 100%;
+	height: 5vw;
 	background-color: #000000;
-	font-family: "Microsoft JhengHei"; font-size: 45px;
-	color:#FFFFFF;
-	font-weight: bold; line-height: 70px;
+	font-family: "Microsoft JhengHei";
+	font-size: 1.5vw;
+	color: #FFFFFF;
+	font-weight: bold;
+	line-height: 5vw;
 	text-align: center;
-	display: none; position: fixed;
+	display: none;
+	position: fixed;
 	top: 0;
 	opacity: 0.7;
+	z-index: 100;
 }
+
 .btn {
-	width: 150px; display: inline-block;
-	padding-left: 20px;
-	padding-right: 20px;
+	width: 15vw;
+	/* border-radius: 20%; */
 }
+
+.btn-row {
+	padding-right: 2vw;
+	padding-left: 2vw;
+}
+
 .anchor {
-	top: -70px;
+	top: -5vw;
 	display: block;
 	position: relative;
 }
+
 #intro-space {
-	width: 100%; height: 50vw;
-	background-image: url("intro.png"); background-size: 100%;
-	background-color: #ADADAD;
+	width: 100%;
+	height: 48.8vw;
+	background-image: url("intro.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
+
 #book-btn {
-	border: solid;
-	width: 30vw; height: 30vw;
-	/*position: relative; */
+	position: relative;
+	left: 15vw;
+	top: 16vw;
+	width: 29vw;
+	height: 17vw;
 	display: inline-block;
+	border: solid 1px red;
+	border-radius: 100%;
 }
+
 #intro-text {
+	position: relative;
+	left: 14vw;
+	top: 6vw;
+	width: 53vw;
+	height: 36vw;
+	background-color: black;
+	opacity: 0.5;
+	visibility: hidden;
+	border-radius: 3vw;
 	border: solid;
-	width: 30vw; height: 30vw;
-	/*position: relative; */
-	display: inline-block;
+	color: white;
+	vertical-align: top;
+	font-size: 2.2vw;
+	font-weight: bold;
+	font-family: "Microsoft JhengHei";
+	float: left;
+	padding-top: 2vw;
+	padding-left: 2.4vw;
 }
+
 #schedule-space {
-	width: 100%; height: 50vw;
-	background-image: url('schedule.jpg');background-size: 100%;
+	width: 100%;
+	height: 48.8vw;
+	background-image: url('schedule.png');
+	background-size: 100%;
 	background-repeat: no-repeat;
 	text-align: center;
-	font-family: "Microsoft JhengHei"; font-size: 100px;
+	font-family: "Microsoft JhengHei";
+	font-size: 100px;
 	font-weight: bold;
-	background-color: black;
 }
+
 #first-footer {
-	width: 100%; height: 50vw;
-	background-color: #D8D8EB;
+	width: 100%;
+	height: 48.8vw;
 	text-align: center;
-	font-family: "Microsoft JhengHei"; font-size: 100px;
+	font-family: "Microsoft JhengHei";
+	font-size: 100px;
 	font-weight: bold;
 }
+
 #register-space {
-	width: 100%; height: 50vw;
-	background-color: #ADADAD;
+	width: 100%;
+	height: 48.8vw;
+	background-image: url("register.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
 	text-align: center;
-	font-family: "Microsoft JhengHei"; font-size: 100px;
+	font-family: "Microsoft JhengHei";
+	font-size: 100px;
 	font-weight: bold;
 }
+
 #pay-space {
-	width: 100%; height: 50vw;
-	background-color: #D8D8EB;
-	text-align: center;
-	font-family: "Microsoft JhengHei"; font-size: 100px;
-	font-weight: bold;
+	width: 100%;
+	height: 48.8vw;
+	background-image: url("pay.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	/* text-align: center;
+	font-family: "Microsoft JhengHei";
+	font-size: 50px;
+	font-weight: bold; */
 }
+
+#pay-text {
+	top: 7vw;
+	position: relative;
+	font-family: "Microsoft JhengHei";
+	font-size: 2vw;
+	color: white;
+	font-weight: bold;
+	/* text-align: center; */
+	line-height: 4vw;
+}
+
 #game-space {
-	width: 100%; height: 50vw;
-	background-color: #ADADAD;
+	width: 100%;
+	height: 48.8vw;
 	text-align: center;
-	font-family: "Microsoft JhengHei"; font-size: 100px;
+	font-family: "Microsoft JhengHei";
+	font-size: 100px;
 	font-weight: bold;
+	z-index: 0;
 }
+
 #contact-space {
-	width: 100%; height: 50vw;
-	background-color: #D8D8EB;
-	text-align: center;
-	font-family: "Microsoft JhengHei"; font-size: 100px;
+	width: 100%;
+	height: 48.8vw;
+	background-image: url('contact.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#contact-text {
+	top: 13vw;
+	position: relative;
+	font-family: "Microsoft JhengHei";
+	font-size: 2vw;
+	color: white;
 	font-weight: bold;
+	text-align: center;
+	line-height: 3.5vw;
 }
+
+.pic {
+	margin: 0 auto;
+	border: solid white;
+	width: 17vw;
+	height: 17vw;
+}
+
 a:link {
-    color: white;
+	color: white;
 }
+
 
 /* visited link */
+
 a:visited {
-    color: white;
+	color: white;
 }
+
 
 /* mouse over link */
+
 a:hover {
-    color: #ADADAD;
+	color: #ADADAD;
+	text-decoration: none;
 }
 
+
 /* selected link */
+
 a:active {
-    color: #4F4F4F;
+	color: #4F4F4F;
 }
+

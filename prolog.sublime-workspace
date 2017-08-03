@@ -1,0 +1,1108 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"br",
+				"background-repeat"
+			],
+			[
+				"bc",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"bar",
+				"barHeight"
+			],
+			[
+				"btn",
+				"btns"
+			],
+			[
+				"Pro",
+				"Prolog"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cli",
+				"clicked"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"coun",
+				"count_display"
+			],
+			[
+				"img",
+				"img-button"
+			],
+			[
+				"it",
+				"item-list"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"sl",
+				"saler_profit"
+			],
+			[
+				"sal",
+				"saler_price"
+			],
+			[
+				"dema",
+				"demand"
+			],
+			[
+				"max",
+				"max_manu_Profit"
+			],
+			[
+				"man",
+				"manu_profit"
+			],
+			[
+				"dem",
+				"demand_num"
+			],
+			[
+				"saler",
+				"salerPrice"
+			],
+			[
+				"j",
+				"j2"
+			],
+			[
+				"new",
+				"newArr"
+			],
+			[
+				"k",
+				"kj"
+			],
+			[
+				"rate",
+				"ratedTimes"
+			],
+			[
+				"reve",
+				"revenged"
+			],
+			[
+				"bad",
+				"badRated"
+			],
+			[
+				"rev",
+				"revenge"
+			],
+			[
+				"re",
+				"revenge"
+			],
+			[
+				"CO",
+				"cout"
+			],
+			[
+				"cust",
+				"customerList"
+			],
+			[
+				"cus",
+				"customerList"
+			],
+			[
+				"good",
+				"goodName"
+			],
+			[
+				"rated",
+				"ratedTimes"
+			],
+			[
+				"a",
+				"account"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"top",
+				"top5Ave"
+			],
+			[
+				"pri",
+				"printed"
+			],
+			[
+				"prin",
+				"printed"
+			],
+			[
+				"ge",
+				"getAverage"
+			],
+			[
+				"sa",
+				"salerList"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"sale",
+				"salerList"
+			],
+			[
+				"rat",
+				"ratedTimes"
+			],
+			[
+				"trans",
+				"transTimes"
+			],
+			[
+				"cou",
+				"courseList"
+			],
+			[
+				"stu",
+				"studentList"
+			],
+			[
+				"cour",
+				"courseID"
+			],
+			[
+				"s",
+				"Student"
+			],
+			[
+				"coure",
+				"courseID"
+			],
+			[
+				"su",
+				"studentID"
+			],
+			[
+				"ste",
+				"studentList"
+			],
+			[
+				"stud",
+				"studentID"
+			],
+			[
+				"st",
+				"studentList"
+			],
+			[
+				"sut",
+				"Student"
+			],
+			[
+				"gra",
+				"gradeList"
+			],
+			[
+				"course",
+				"CourseGrade"
+			],
+			[
+				"grad",
+				"gradeList"
+			],
+			[
+				"sud",
+				"Student"
+			],
+			[
+				"Cours",
+				"CousrseGrade"
+			],
+			[
+				"is",
+				"isLargerThan"
+			],
+			[
+				"var",
+				"varName"
+			],
+			[
+				"to",
+				"totalNum"
+			],
+			[
+				"ra",
+				"RationalNumber"
+			],
+			[
+				"deno",
+				"deno"
+			],
+			[
+				"te",
+				"theSame"
+			],
+			[
+				"de",
+				"departments"
+			],
+			[
+				"bin",
+				"bingo"
+			],
+			[
+				"Cen",
+				"Center"
+			],
+			[
+				"buil",
+				"buildCost"
+			],
+			[
+				"ret",
+				"retailers_built"
+			],
+			[
+				"cente",
+				"centers_built"
+			],
+			[
+				"rep",
+				"rep_table"
+			],
+			[
+				"reta",
+				"retailerNum"
+			],
+			[
+				"retail",
+				"retailers_built"
+			],
+			[
+				"cen",
+				"centerNum"
+			],
+			[
+				"ce",
+				"centerNum"
+			],
+			[
+				"cneter",
+				"centerNum"
+			],
+			[
+				"center",
+				"centers"
+			],
+			[
+				"repl",
+				"replenish"
+			],
+			[
+				"cn",
+				"centers"
+			],
+			[
+				"Center",
+				"Center"
+			],
+			[
+				"las",
+				"lastOne"
+			],
+			[
+				"z",
+				"zArray"
+			],
+			[
+				"ne",
+				"negOnes"
+			],
+			[
+				"med",
+				"medianTimesTwo"
+			],
+			[
+				"num",
+				"numsArr"
+			],
+			[
+				"c",
+				"counter"
+			],
+			[
+				"cout",
+				"counter"
+			],
+			[
+				"fp",
+				"foodP"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"whi",
+				"whitePoints"
+			],
+			[
+				"bla",
+				"blackPoints"
+			],
+			[
+				"sq",
+				"squareSum"
+			],
+			[
+				"mu",
+				"mutual"
+			],
+			[
+				"con",
+				"confidenceDeno"
+			],
+			[
+				"sup",
+				"supValue"
+			],
+			[
+				"conf",
+				"confidence"
+			],
+			[
+				"muut",
+				"mutualTimes"
+			],
+			[
+				"item",
+				"itemTotal"
+			],
+			[
+				"pr",
+				"processTime"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"print",
+				"printMatrix"
+			],
+			[
+				"p",
+				"printMatrix"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"temp",
+				"tempChoice"
+			],
+			[
+				"second",
+				"secondSeat"
+			],
+			[
+				"sec",
+				"secondSeat"
+			],
+			[
+				"first",
+				"firstSeat"
+			],
+			[
+				"firs",
+				"firstSeat"
+			],
+			[
+				"se",
+				"secondSeat"
+			],
+			[
+				"fir",
+				"firstSeat"
+			],
+			[
+				"bes",
+				"best1stSeat"
+			],
+			[
+				"ch",
+				"changeSeatSection"
+			],
+			[
+				"b",
+				"best1stSeat"
+			],
+			[
+				"cha",
+				"changeSeatSection"
+			],
+			[
+				"fi",
+				"firstTime"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "prolog.html",
+			"settings":
+			{
+				"buffer_size": 4811,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "prolog.css",
+			"settings":
+			{
+				"buffer_size": 3119,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "prolog.js",
+			"settings":
+			{
+				"buffer_size": 2805,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 101.0,
+		"last_filter": "renam",
+		"selected_items":
+		[
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"htmlsetnod",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"htmlsetpre",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"htmlpre set ",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"ins th",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"autoSave",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax",
+				"Set Syntax: C++"
+			],
+			[
+				"",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"rename",
+			"package control",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Tim/Prolog"
+	],
+	"file_history":
+	[
+		"/C/Users/Tim/timlee0119.github.io/index.js",
+		"/C/Users/Tim/timlee0119.github.io/index.css",
+		"/C/Users/Tim/timlee0119.github.io/index.html",
+		"/C/Users/Tim/Prolog/prolog.js",
+		"/C/Users/Tim/Prolog/prolog.sublime-project",
+		"/C/Users/Tim/Prolog/prolog.sublime-workspace",
+		"/C/Users/Tim/Desktop/1123.html",
+		"/C/Users/Tim/Prolog/prolog.html",
+		"/C/Users/Tim/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Tim/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/Users/Tim/Prolog/Prolog.js",
+		"/C/Users/Tim/Prolog/Prolog.css",
+		"/C/Users/Tim/Prolog/Prolog.html",
+		"/C/Users/Tim/OneDrive/Documents/pdogs/profile/profile.html",
+		"/C/Users/Tim/OneDrive/Documents/PD/網頁練習/prac.html",
+		"/C/Users/Tim/OneDrive/Documents/pdogs/profile/profile.css",
+		"/C/Users/Tim/OneDrive/Documents/pdogs/clickergame.html",
+		"/C/Users/Tim/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Tim/timlee0119.github.io/profile/profile.css",
+		"/C/Users/Tim/timlee0119.github.io/profile/profile.html",
+		"/C/Users/Tim/OneDrive/Documents/PD/final project/version10/res.qrc",
+		"/C/Users/Tim/OneDrive/Documents/PD/final project/version10/test.pro",
+		"/C/Users/Tim/Desktop/timlee0119.pem",
+		"/C/Users/Tim/Desktop/startbootstrap-creative-gh-pages/css/creative.css",
+		"/D/xampp/htdocs/judge/application/models/problem_model.php",
+		"/C/Users/Tim/OneDrive/Documents/pdogs/profile.css",
+		"/C/Users/Tim/OneDrive/Documents/pdogs/profile.js",
+		"/C/Users/Tim/OneDrive/Documents/pdogs/profile.html",
+		"/C/Users/Tim/OneDrive/Documents/pdogs/bmi.html",
+		"/D/xampp/htdocs/judge/application/views/index.php",
+		"/D/xampp/htdocs/judge/application/views/challenge.php",
+		"/D/xampp/htdocs/judge/application/views/challenge_view.php",
+		"/D/xampp/htdocs/judge/application/models/log_model.php",
+		"/D/xampp/htdocs/judge/application/views/main.php",
+		"/D/xampp/htdocs/judge/application/controllers/challenge.php",
+		"/D/xampp/htdocs/judge/application/views/my_page.php",
+		"/D/xampp/htdocs/judge/application/controllers/my_page.php",
+		"/C/Users/Tim/Desktop/startbootstrap-creative-gh-pages/index.html",
+		"/D/xampp/htdocs/judge/application/models/challenge_model.php",
+		"/D/xampp/htdocs/judge/application/controllers/index.html",
+		"/C/Users/Tim/OneDrive/Documents/pdogs/profile",
+		"/C/Users/Tim/OneDrive/Documents/pdogs/Clicker.js",
+		"/D/xampp/htdocs/judge/application/views/about.php",
+		"/D/xampp/htdocs/judge/application/controllers/about.php",
+		"/D/xampp/htdocs/judge/index.php",
+		"/C/Users/Tim/Desktop/Clicker.js",
+		"/C/Users/Tim/Desktop/123.html",
+		"/C/Users/Tim/Desktop/clickergame.html",
+		"/D/Sublime Text 3/sublime_text.exe",
+		"/D/xampp/htdocs/judge/application/controllers/pdao.php",
+		"/D/xampp/htdocs/judge/application/config/database.php",
+		"/D/xampp/htdocs/judge/application/config/mail.php",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/LaptopTest/player.cpp.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/LaptopTest/practice3.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/LaptopTest/Untitled1.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/LaptopTest/practice1.cpp",
+		"/C/Users/Tim/Desktop/1234.html",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/LaptopTest/practice2.cpp",
+		"/C/Users/Tim/Desktop/tank2P/Player.h",
+		"/C/Users/Tim/Desktop/Box2D-master/Box2D/HelloWorld/HelloWorld.cpp",
+		"/C/Users/Tim/Desktop/Box2D-master/Box2D/Box2D/Box2D.h",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW9-2.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW10-2.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW10-1.cpp",
+		"/C/Users/Tim/Desktop/hw10-2.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/LaptopTest/account",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW8-3.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW9-1.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW6-3.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW4-4.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW3-4.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW4-3.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/HW1.docx",
+		"/C/Users/Tim/OneDrive/Documents/PBC/Final Project/color squad/Color Squad.py",
+		"/C/Users/Tim/OneDrive/Documents/PD/project/midterm_project.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/Exam2/exam2-4.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/Exam2/exam2-3.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/Exam2/exam2-2.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/Exam2/exam2-1.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW8-4.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW7-4.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW7-5.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW6-4.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW8-5.cpp",
+		"/C/Users/Tim/AppData/Roaming/Sublime Text 3/Packages/User/myC++.sublime-build",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/HomeTest/test1.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW7-3.cpp",
+		"/C/Users/Tim/Desktop/New.cpp",
+		"/C/Users/Tim/Desktop/New Year's Resolution.cpp",
+		"/C/Users/Tim/Desktop/untitled.cpp",
+		"/C/Users/Tim/Desktop/PD midterm1/4.cpp",
+		"/C/Users/Tim/Desktop/PD midterm1/3.cpp",
+		"/C/Users/Tim/Desktop/PD midterm1/2.cpp",
+		"/C/Users/Tim/Desktop/PD midterm1/1.cpp",
+		"/C/Users/Tim/Desktop/1.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/homework/舊作業code/HW5-3.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/HomeTest/test3.cpp",
+		"/C/Users/Tim/Desktop/Tcats_HW4-4(Full)/testdata.txt",
+		"/C/Users/Tim/Desktop/hmw4p4.cpp",
+		"/C/Users/Tim/AppData/Roaming/Skype/My Skype Received Files/new.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PBC/Final Project/Color Squad.py",
+		"/C/Users/Tim/Desktop/123321.cpp",
+		"/C/Users/Tim/AppData/Local/Temp/Rar$DRa0.391/HW2-4.cpp",
+		"/C/Users/Tim/AppData/Local/Temp/Rar$DRa0.535/HW2-3.cpp",
+		"/C/Users/Tim/Desktop/gino2.cpp",
+		"/C/Users/Tim/Desktop/gino1.cpp",
+		"/C/Users/Tim/Downloads/hmw3p3.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/Untitled1.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/practice2.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/practice3.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/practice1.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/practice 3.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/practice 2.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/practice 1.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/Untitled4.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/Untitled3.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/Untitled2.cpp",
+		"/C/Users/Tim/OneDrive/Documents/PD/code/lab/lab1practiceD.cpp",
+		"/C/Users/Tim/Desktop/PD/code/lab/lab1practiceD.cpp",
+		"/C/Users/Tim/Desktop/PD/code/lab/lab1practiceC.cpp",
+		"/C/Users/Tim/Desktop/hey.c",
+		"/C/Users/Tim/Desktop/new 1.h",
+		"/C/Users/Tim/Desktop/PD/code/lab/lab1 practice C.exe",
+		"/C/Users/Tim/Desktop/PD/code/lab/lab1practice D.cpp",
+		"/C/Users/Tim/Desktop/Sublime-Build-System-master/windows/use_this.sublime-build",
+		"/C/Users/Tim/Desktop/Sublime-Build-System-master/windows/cpp.png",
+		"/C/Users/Tim/Desktop/Sublime-Build-System-master/windows/console.sublime-build",
+		"/C/Users/Tim/AppData/Roaming/Sublime Text 3/Packages/User/c++input.sublime-build"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"contact",
+			"profile",
+			"body",
+			"\t<",
+			">\n",
+			"stylesheet",
+			"link",
+			"line-height",
+			"align",
+			"vertical",
+			"688",
+			"height",
+			"padding",
+			";\n",
+			"collapse",
+			"content",
+			" <",
+			"challenge",
+			"about",
+			"controllers",
+			"score",
+			"itemList",
+			"saler",
+			"Saler",
+			"endl",
+			"j",
+			"break",
+			"getRatedTimes",
+			"revenged",
+			"double",
+			"int",
+			"customerCnt",
+			"checkGood",
+			"findTop5",
+			"goodNum",
+			"Saler()",
+			"cout",
+			"stoi",
+			"stio",
+			"->",
+			"500",
+			"Customer",
+			"bingo",
+			"n",
+			"array",
+			" ",
+			"isdigit",
+			" ",
+			"    ",
+			"i",
+			"2ndSeat",
+			"1stSeat",
+			"m"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"money",
+			"seller",
+			"Seller",
+			"revenge",
+			"long double",
+			"inGoodList",
+			"goodName",
+			"LEN",
+			"Saler",
+			"bin",
+			"len",
+			"arr",
+			" ",
+			"  ",
+			"secondSeat",
+			"firstSeat"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "prolog.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4811
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2772.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "prolog.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3119
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "prolog.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2805
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 169.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/myC++.sublime-build",
+	"project": "prolog.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Tim\\Prolog\\prolog.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
